@@ -17,7 +17,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundlerIdentifier": "br.edu.fatecitu.falaverissimo",
+      "buildNumbrr": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
